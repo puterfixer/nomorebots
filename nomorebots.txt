@@ -1,0 +1,116 @@
+Subnet	Ban reason
+8.209.64.0/18	Alibaba SSH brute force
+47.91.64.0/19	AliBabaCloud
+89.40.112.0/20	ArubaCloud SSH brute force
+217.61.0.0/21	ArubaCloud SSH brute force
+185.12.176.0/22	ArubaCloud SSH brute force
+217.61.104.0/21	ArubaCloud SSH brute force
+94.177.224.0/21	ArubaCloud SSH brute force
+94.177.160.0/19	ArubaNet
+94.177.192.0/18	ArubaNet
+194.5.206.0/24	ArvanCloud
+185.135.11.0/24	Brute force
+204.12.204.128/26	Brute force
+89.255.48.0/21	Brute force
+94.64.165.212	Brute force
+112.88.0.0/13	China brute force
+111.192.0.0/12	China intrusion
+113.224.0.0/12	China intrusion
+121.40.0.0/14	China intrusion
+123.56.0.0/15	China intrusion
+14.204.0.0/15	China intrusion
+180.96.0.0/11	China intrusion
+49.64.0.0/11	China intrusion
+60.12.0.0/16	China intrusion
+60.13.128.0/17	China intrusion
+220.178.0.0/15	China PHPMyAdmin brute force
+220.180.0.0/16	China PHPMyAdmin brute force
+112.111.0.0/16	China spam
+175.44.0.0/16	China spam
+36.248.0.0/14	China spam
+198.12.123.128/27	Colocrossing spam
+144.91.64.0/18	Contabo
+164.68.96.0/19	Contabo
+167.86.66.0/18	Contabo
+167.86.96.0/19	Contabo
+173.249.32.0/19	Contabo
+178.238.237.0/24	Contabo
+193.34.144.0/23	Contabo
+207.180.192.1/19	Contabo
+5.189.128.0/18	Contabo
+93.104.0.0/16	Contabo
+207.180.224.0/19	Contabo vhosts
+5.189.144.0/20	Contabo vhosts
+173.212.192.0/18	ContaboServer
+91.200.100.0/22	DeinServerHost
+104.248.0.0/16	DigitalOcean
+134.209.0.0/16	DigitalOcean
+138.197.0.0/16	DigitalOcean
+138.68.0.0/16	DigitalOcean
+139.59.0.0/16	DigitalOcean
+142.93.0.0/16	DigitalOcean
+157.230.0.0/16	DigitalOcean
+159.89.0.0/16	DigitalOcean
+165.22.0.0/16	DigitalOcean
+165.227.0.0/16	DigitalOcean
+167.99.0.0/16	DigitalOcean
+178.128.0.0/16	DigitalOcean
+188.166.0.0/16	DigitalOcean
+206.81.0.0/19	DigitalOcean
+207.154.192.0/18	DigitalOcean
+46.101.0.0/16	DigitalOcean
+68.183.0.0/16	DigitalOcean vhosts
+212.224.112.0/20	Fornex.ru
+193.108.116.0/22	GlobalTeleHost
+136.243.0.0/16	Hetzner Hosting
+144.48.240.0/22	HongKong PHPMyAdmin brute force
+188.138.11.0/24	HostEurope
+188.138.12.0/22	HostEurope
+188.138.16.0/20	HostEurope
+188.138.32.0/19	HostEurope
+78.35.38.0/26	Hostix.de
+45.127.132.0/22	Indonesia spam
+134.249.131.0	Kyivstar GSM Ukraine
+210.19.0.0/16	Malaysia brute force
+45.81.232.0/22	mc-host24.de
+37.10.110.0/23	Optimate Server
+37.10.112.0/24	Optimate Server
+130.61.0.0/16	Oracle Public Cloud
+51.89.0.0/16	OVH
+51.38.0.0/16	OVH brute force
+51.68.0.0/16	OVH brute force FTP
+198.74.48.0/20	PHPMyAdmin brute force
+185.132.53.0/24	Private-Hosting
+82.151.96.0/19	Russia brute force
+95.85.64.0/21	Russian brute force
+195.78.62.0/23	Schuelke Internet Service
+46.229.168.0/23	SEMrush.com SEO marketing crawler
+58.11.0.0/17	Thailand spam
+109.95.192.0/21	UA Vulnerability Scanner
+176.124.192.0/23	UA Vulnerability Scanner
+185.153.196.0/22	UA Vulnerability Scanner
+185.20.226.0/23	UA Vulnerability Scanner
+185.94.108.0/22	UA Vulnerability Scanner
+194.26.29.0/24	UA Vulnerability Scanner
+213.141.153.0/24	UA Vulnerability Scanner
+217.107.219.0/24	UA Vulnerability Scanner
+45.146.164.0/23	UA Vulnerability Scanner
+5.188.210.0/24	UA Vulnerability Scanner
+5.188.88.0/22	UA Vulnerability Scanner
+5.8.8.0/22	UA Vulnerability Scanner
+81.177.139.0/24	UA Vulnerability Scanner
+84.201.240.0/21	UA Vulnerability Scanner
+88.147.176.0/20	UA Vulnerability Scanner
+88.147.192.0/22	UA Vulnerability Scanner
+89.188.164.0/22	UA Vulnerability Scanner
+91.240.118.0/24	UA Vulnerability Scanner
+93.158.228.0/22	UA Vulnerability Scanner
+95.143.178.0/24	UA Vulnerability Scanner
+95.163.254.0/23	UA Vulnerability Scanner
+95.167.0.0/16	UA Vulnerability Scanner
+188.163.107.0/24	Ukraine brute force
+62.244.0.0/18	Ukraine brute force
+91.200.12.0/22	Ukraine brute force
+93.76.224.0/19	Ukraine brute force
+195.211.152.0/22	Ukraine brute force
+113.161.77.0/24	Vietnam smtp abuse
